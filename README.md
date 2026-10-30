@@ -17,8 +17,6 @@ Unified Flasher brings Fastboot, SP Flash Tool, MTKClient, Odin, SP Flash Lite a
 
 Both builds are attached to the [latest release](../../releases/latest).
 
-> This is a private repository. Release downloads are available only to the repository owner and invited collaborators.
-
 ## Requirements
 
 - Windows 10 or Windows 11 (64-bit)
